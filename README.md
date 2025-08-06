@@ -1,12 +1,20 @@
-# 🚁 Catch Anything V2: Multi-strategy UAV target tracking system
-
+# 🚁 Catch Anything V2: Multi-strategy UAV Target Tracking System
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
 > 🎯 *面向飞行视频中的动态目标追踪，适用于多类无人机系统*
 
 Catch Anything V2 是一个融合多策略的目标追踪系统，专为处理无人机拍摄视频中的复杂跟踪任务而设计。系统通过光流法、模板匹配、颜色建模与自适应机制结合，在目标遮挡、快速移动、遮挡或消失等情况下依然实现高鲁棒性跟踪。
 
+
 ---
 
-## 📌 项目亮点 (Highlights)
+## 📢 Latest Updates
+- **Aug-2-25**: GeoChat paper is released [Catch Anything V1](https://github.com/Jeffry-wen/Drone-Tracking-with-Optical-Flow-and-Color-Histogram). 🔥🔥
+
+---
+
+## 📌 Highlights
 
 * ✅ **融合多模态跟踪策略**：结合光流追踪 + 模板匹配 + 颜色恢复三种策略，增强鲁棒性
 * 🧠 **智能模板自更新机制**：基于面积稳定性自适应替换模板，实时优化追踪窗口
@@ -145,7 +153,7 @@ python catch_anything_v2.py
 
 ![DEMO](https://github.com/Jeffry-wen/Catch-Anything-V2-Multi-strategy-UAV-target-tracking-system/blob/main/img/demo.gif)
 
-🎥你可以在 [这里](https://youtu.be/KbvKQgmJpAk?si=-WDRc_O1mZPPBcnq) 观看完整的视频演示
+🎥你可以在 [这里](https://www.bilibili.com/video/BV1J1tNzNEag/) 观看完整的视频演示
 
 
 
