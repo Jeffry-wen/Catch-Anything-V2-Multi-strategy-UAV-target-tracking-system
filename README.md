@@ -10,7 +10,7 @@ Catch Anything V2 是一个融合多策略的目标追踪系统，专为处理�
 ---
 
 ## 📢 Latest Updates
-- **Aug-2-25**: GeoChat paper is released [Catch Anything V1](https://github.com/Jeffry-wen/Drone-Tracking-with-Optical-Flow-and-Color-Histogram). 🔥🔥
+- **Aug-2-25**: [Catch Anything V1](https://github.com/Jeffry-wen/Drone-Tracking-with-Optical-Flow-and-Color-Histogram) is released. 🔥🔥
 
 ---
 
