@@ -1,4 +1,4 @@
-# 🚁 Catch Anything V2: Multi-strategy unmanned aerial vehicle target tracking system
+# 🚁 Catch Anything V2: Multi-strategy UAV target tracking system
 
 > 🎯 *面向飞行视频中的动态目标追踪，适用于多类无人机系统*
 
@@ -143,9 +143,7 @@ python catch_anything_v2.py
 
 ## 🎬 识别效果演示
 
-|         初始ROI选取          |             光流追踪              |             小目标追踪             |            小目标追踪            |
-|:------------------------:|:-----------------------------:|:----------------------------:|:---------------------------:|
-| ![roi](images/step1.png) | ![tracking](images/step2.jpg) | ![recover](images/step3.jpg) | ![center](images/step4.jpg) |
+![DEMO](https://github.com/Jeffry-wen/Catch-Anything-V2-Multi-strategy-UAV-target-tracking-system/blob/main/img/demo.gif)
 
 🎥你可以在 [这里](https://youtu.be/KbvKQgmJpAk?si=-WDRc_O1mZPPBcnq) 观看完整的视频演示
 
