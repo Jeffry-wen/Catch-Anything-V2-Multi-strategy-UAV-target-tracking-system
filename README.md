@@ -177,3 +177,7 @@ python catch_anything_v2.py
 * [ ] 优化代码提供轻量化高帧率适用于边缘设备
 
 ---
+## 📜 许可协议
+
+本项目感谢The shan的大力支持，code coming soon.
+
