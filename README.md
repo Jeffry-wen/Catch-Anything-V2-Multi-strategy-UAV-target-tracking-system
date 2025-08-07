@@ -182,7 +182,7 @@ python catch_anything_v2.py
 ---
 
 ## 🎬 识别效果演示
-🎥你可以在 [这里](https://www.bilibili.com/video/BV1J1tNzNEag/) 观看完整的视频演示
+🎥**你可以在 [这里](https://www.bilibili.com/video/BV1J1tNzNEag/) 观看完整的视频演示**
 
 ![DEMO](https://github.com/Jeffry-wen/Catch-Anything-V2-Multi-strategy-UAV-target-tracking-system/blob/main/img/demo.gif)
 
