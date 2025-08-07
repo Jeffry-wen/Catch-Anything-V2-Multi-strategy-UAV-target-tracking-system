@@ -217,3 +217,4 @@ python catch_anything_v2.py
 
 本项目感谢The shan的大力支持，因项目需要代码暂不公开。📬 [欢迎交流联系](mailto:jwen341@connect.hkust-gz.edu.cn)。
 
+[![Email Me](https://img.shields.io/badge/Email-jwen341%40connect.hkust--gz.edu.cn-blue)](mailto:jwen341@connect.hkust-gz.edu.cn)
