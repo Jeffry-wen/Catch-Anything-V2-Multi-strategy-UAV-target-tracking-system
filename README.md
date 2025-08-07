@@ -187,9 +187,9 @@ python catch_anything_v2.py
 ![DEMO](https://github.com/Jeffry-wen/Catch-Anything-V2-Multi-strategy-UAV-target-tracking-system/blob/main/img/demo.gif)
 
 
-|               颜色滤波                |              小目标模板               |           光流追踪            |          小目标追踪           |
-|:---------------------------------:|:--------------------------------:|:-------------------------:|:------------------------:|
-| ![color](img/Color_filtering.jpg) | ![tracking](img/Tiny_Object.jpg) | ![recover](img/step2.jpg) | ![center](img/step3.jpg) |
+|               颜色滤波                |           光流追踪            |          小目标追踪           |
+|:---------------------------------:|:-------------------------:|:------------------------:|
+| ![color](img/Color_filtering.jpg) | ![recover](img/step2.jpg) | ![center](img/step3.jpg) |
 
 
 
