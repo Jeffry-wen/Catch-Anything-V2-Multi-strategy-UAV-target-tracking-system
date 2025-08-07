@@ -182,15 +182,14 @@ python catch_anything_v2.py
 ---
 
 ## 🎬 识别效果演示
+🎥你可以在 [这里](https://www.bilibili.com/video/BV1J1tNzNEag/) 观看完整的视频演示
 
 ![DEMO](https://github.com/Jeffry-wen/Catch-Anything-V2-Multi-strategy-UAV-target-tracking-system/blob/main/img/demo.gif)
 
-🎥你可以在 [这里](https://www.bilibili.com/video/BV1J1tNzNEag/) 观看完整的视频演示
 
-
-|              颜色滤波               |              小目标模板               |           光流追踪            |          小目标追踪           |
-|:-------------------------------:|:--------------------------------:|:-------------------------:|:------------------------:|
-| ![roi](img/Color filtering.png) | ![tracking](img/Tiny Object.png) | ![recover](img/step2.jpg) | ![center](img/step3.jpg) |
+|               颜色滤波                |              小目标模板               |           光流追踪            |          小目标追踪           |
+|:---------------------------------:|:--------------------------------:|:-------------------------:|:------------------------:|
+| ![color](img/Color_filtering.jpg) | ![tracking](img/Tiny_Object.jpg) | ![recover](img/step2.jpg) | ![center](img/step3.jpg) |
 
 
 
