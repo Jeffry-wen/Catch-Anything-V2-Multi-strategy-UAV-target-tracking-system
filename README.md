@@ -6,11 +6,14 @@
 
 Catch Anything V2 是一个融合多策略的目标追踪系统，专为处理无人机拍摄视频中的复杂跟踪任务而设计。系统通过光流法、模板匹配、颜色建模与自适应机制结合，在目标遮挡、快速移动、遮挡或消失等情况下依然实现高鲁棒性跟踪。
 
+---
+## 🙌 支持一下
 
+- 如果这个项目对你有帮助，欢迎 ⭐️ Star！
 ---
 
 ## 📢 Latest Updates
-- **Aug-7-25**: Catch Anything V2 **[Code]** has been uploaded. 🎉🎉
+- **Aug-8-31**: Catch Anything V2 **[Code]** has been uploaded. 🎉🎉
 - **Aug-7-25**: [Catch Anything V2 [Demo]](https://www.bilibili.com/video/BV1J1tNzNEag/) has been uploaded. 🎬🎬
 - **Aug-2-25**: [Catch Anything V1 [Project]](https://github.com/Jeffry-wen/Drone-Tracking-with-Optical-Flow-and-Color-Histogram) is released. 🔥🔥
 
@@ -216,6 +219,6 @@ python catch_anything_v2.py
 ---
 ## 📜 许可协议
 
-本项目感谢The shan的大力支持，因项目需要代码暂不公开。📬 [欢迎交流联系](mailto:jwen341@connect.hkust-gz.edu.cn)。
+本项目感谢The shan的大力支持，代码仅供交流学习，请勿用于其他用途。📬 [欢迎交流联系](mailto:jwen341@connect.hkust-gz.edu.cn)。
 
 [![Email Me](https://img.shields.io/badge/Email-jwen341%40connect.hkust--gz.edu.cn-blue)](mailto:jwen341@connect.hkust-gz.edu.cn)
