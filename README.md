@@ -10,7 +10,8 @@ Catch Anything V2 是一个融合多策略的目标追踪系统，专为处理�
 ---
 
 ## 📢 Latest Updates
-- **Aug-7-25**: [Catch Anything V2 [Demo]](https://www.bilibili.com/video/BV1J1tNzNEag/) has been uploaded. 🎉🎉
+- **Aug-7-25**: Catch Anything V2 **[Code]** has been uploaded. 🎉🎉
+- **Aug-7-25**: [Catch Anything V2 [Demo]](https://www.bilibili.com/video/BV1J1tNzNEag/) has been uploaded. 🎬🎬
 - **Aug-2-25**: [Catch Anything V1 [Project]](https://github.com/Jeffry-wen/Drone-Tracking-with-Optical-Flow-and-Color-Histogram) is released. 🔥🔥
 
 
