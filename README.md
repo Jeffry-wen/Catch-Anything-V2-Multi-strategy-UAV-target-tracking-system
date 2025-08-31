@@ -10,6 +10,7 @@ Catch Anything V2 是一个融合多策略的目标追踪系统，专为处理�
 ## 🙌 支持一下
 
 - 如果这个项目对你有帮助，欢迎 ⭐️ Star！
+- **[Test video download link](https://hkustgz-my.sharepoint.com/:v:/g/personal/jwen341_connect_hkust-gz_edu_cn/EXq3_f4CBn5JqND1mnNP1gQBDNmhY5jhLA4gOI3i644RMg?e=TKVQs1)**
 ---
 
 ## 📢 Latest Updates
