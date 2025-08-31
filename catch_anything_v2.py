@@ -3,7 +3,7 @@ import numpy as np
 from scipy import stats
 
 # ======================【预定义参数区域】====================== #
-VIDEO_PATH = "D:/7.24三角翼无人机飞行测试素材汇总/IMG_9045.MOV"  # 📁 视频路径
+VIDEO_PATH = "test_video/IMG_9045.mov"  # 📁 视频路径
 HSV_LOWER = np.array((28, 0, 113))         # 🎨 HSV直方图下界
 HSV_UPPER = np.array((180, 255, 255))      # 🎨 HSV直方图上界
 view_r = 1.3                                # 👁️ 模板扩展视野倍数
@@ -15,7 +15,7 @@ ESC_KEY = 27                               # 🧹 退出键
 RESET_KEYS = [ord('r'), ord('R')]          # 🔁 手动重置键
 FEATURE_MAX_CORNERS = 300                  # 💡 角点数量上限
 save_video = False                              # 是否输出视频地址
-save_path = "D:/tracking_IMG_9045.MOV_V2.mp4"   # 输出地址
+save_path = "output_video/tracking_IMG_9045.MOV_V2.mp4"   # 输出地址
 
 # ============================================================ #
 
